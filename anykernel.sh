@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Pabji Kernel by nuuwy0 
+kernel.string=Atomic! Kernel by nuuwy0 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
